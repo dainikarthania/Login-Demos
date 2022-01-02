@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../2FA"
+		},
+		{
+			"path": "../Google_login"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
